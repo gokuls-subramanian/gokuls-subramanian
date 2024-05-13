@@ -16,7 +16,7 @@
 
 <h3 align="left">About me:</h3>
 
-  🌱 I’m currently learning **Java Script** <br>
+  🌱 I’m currently learning **Java** <br>
   📫 How to reach me: **gokulsubramanian241@gmail.com**
 
 
